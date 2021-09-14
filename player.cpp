@@ -17,7 +17,7 @@ string player::getUsername() {
 	return aUsername;
 }
 void player::setWincount(int win) {
-	WinCount = win; 
+	WinCount = win;
 }
 int player::getwincount() {
 	return WinCount;
